@@ -1,0 +1,38 @@
+body {
+    background: rgb(105, 152, 105);
+}
+
+.mainHeader {
+    color: blue;
+}
+
+.secondHeader {
+    color: blue;
+}
+
+
+p1 {
+    color: brown;
+}
+
+.cat2 {
+    width: 280px;
+    display: block;
+}
+
+.cat1 {
+    display: block;
+}
+
+.cat3 {
+    width: 150px;
+    display: block;
+}
+
+p3 {
+    width: 260px;
+    background-color: rgb(149, 109, 135);
+    border: 2px solid rgb(108, 18, 18);
+    padding: 20px 10px 20px 30px;
+    display: block;
+}
